@@ -1,0 +1,26 @@
+C:\Users\Michau\Desktop\ProjektAkaChasz\bin\Debug\ProjektAkaChasz.exe.config
+C:\Users\Michau\Desktop\ProjektAkaChasz\bin\Debug\ProjektAkaChasz.exe
+C:\Users\Michau\Desktop\ProjektAkaChasz\bin\Debug\ProjektAkaChasz.pdb
+C:\Users\Michau\Desktop\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.csprojResolveAssemblyReference.cache
+C:\Users\Michau\Desktop\ProjektAkaChasz\obj\Debug\MainWindow.baml
+C:\Users\Michau\Desktop\ProjektAkaChasz\obj\Debug\MainWindow.g.cs
+C:\Users\Michau\Desktop\ProjektAkaChasz\obj\Debug\App.g.cs
+C:\Users\Michau\Desktop\ProjektAkaChasz\obj\Debug\ProjektAkaChasz_MarkupCompile.cache
+C:\Users\Michau\Desktop\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.g.resources
+C:\Users\Michau\Desktop\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.Properties.Resources.resources
+C:\Users\Michau\Desktop\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.csproj.GenerateResource.Cache
+C:\Users\Michau\Desktop\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.exe
+C:\Users\Michau\Desktop\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.pdb
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\bin\Debug\ProjektAkaChasz.exe.config
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.exe
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.pdb
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\bin\Debug\ProjektAkaChasz.exe
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\bin\Debug\ProjektAkaChasz.pdb
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.csprojResolveAssemblyReference.cache
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\obj\Debug\MainWindow.baml
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\obj\Debug\MainWindow.g.cs
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\obj\Debug\App.g.cs
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\obj\Debug\ProjektAkaChasz_MarkupCompile.cache
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.g.resources
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.Properties.Resources.resources
+C:\Users\Michau\Desktop\GOTOWY PROJEKT\ProjektAkaChasz\obj\Debug\ProjektAkaChasz.csproj.GenerateResource.Cache

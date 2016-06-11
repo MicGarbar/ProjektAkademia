@@ -1,0 +1,21 @@
+Movie
+Titanic
+James Cameron
+1997
+Dramatic
+19,99
+Lector
+Game
+Bioshock
+Blizzard
+2008
+Shooter
+39,99
+Age_Of_18
+Music
+Appetite for Destruction
+Guns 'n' Roses
+1987
+Hard-Rock
+14,99
+Grammy_Award

@@ -182,11 +182,11 @@ namespace ProjektAkaChasz
 
         private void IncreasePrice_Click(object sender, RoutedEventArgs e)
         {
-            double oldPrice = this.ItemList[this.OverallListView.SelectedIndex].Price;
-            double currentPrice = 0;
-
             try
             {
+                double oldPrice = this.ItemList[this.OverallListView.SelectedIndex].Price;
+                double currentPrice = 0;
+                
                 this.ItemList[this.OverallListView.SelectedIndex].IncreasePrice(double.Parse(this.PriceMultiplyTextBox.Text));
                 currentPrice = this.ItemList[this.OverallListView.SelectedIndex].Price;
 

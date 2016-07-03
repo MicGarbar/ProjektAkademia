@@ -1,0 +1,12 @@
+1. By The Way, Red Hot Chili Peppers, 8,74$
+
+2. By The Way, Red Hot Chili Peppers, 8,74$
+
+3. Titanic, James Cameron, 19,99$
+
+4. Inception, Christopher Nolan, 20,99$
+
+5. Bioshock, Blizzard, 39,99$
+
+-------------------
+Total Price: 98,45$

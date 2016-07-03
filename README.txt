@@ -5,3 +5,5 @@ Wcielaj¹c siê w pracownika sklepu mo¿emy dodaæ przedmioty do bazy i wyœwietliæ n
 Jako klient mo¿emy dodaæ lub usun¹æ do/z naszego koszyka zaznaczony Item. Posortowaæ itemy rosn¹co wed³ug ceny, wyeksportowaæ nasze zamówienie do pliku oraz obliczyæ pe³n¹ kwotê.
 
 Wszystkie pliki tekstowe s¹ w katalogu domyœlnym czyli bin/Debug/.
+
+thx
